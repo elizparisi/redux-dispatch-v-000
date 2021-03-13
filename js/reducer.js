@@ -1,3 +1,9 @@
+
+
+
+
+
+
 function changeState(state, action){
   switch (action.type) {
     case 'INCREASE_COUNT':
